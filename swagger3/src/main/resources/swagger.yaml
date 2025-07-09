@@ -1,0 +1,4 @@
+springdoc:
+  swagger-ui:
+    path: /ui
+  packages-to-scan: com.demo.controller # 如果对应的controller类没有任何方法不会展示该controller
